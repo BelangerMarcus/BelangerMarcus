@@ -1,0 +1,17 @@
+- 👋 Hi, I’m @BelangerMarcus
+- 
+- 👀 I’m interested in ...
+- Data Analysis, Optimization, Machine Learning, Baseball, History
+- 
+- 🌱 I’m currently learning ...
+- Python
+- SQL
+- Tableau
+- 
+- 💞️ I’m looking to collaborate on ...
+- Interesting sports analysis projects
+- Classification projects
+-
+- 📫 How to reach me ...
+- mbelanger413@gmail.com
+- https://www.linkedin.com/in/marcus-belanger
