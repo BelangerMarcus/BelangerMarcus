@@ -1,17 +1,15 @@
 - 👋 Hi, I’m @BelangerMarcus
-- 
+  
 - 👀 I’m interested in ...
 - Data Analysis, Optimization, Machine Learning, Baseball, History
-- 
-- 🌱 I’m currently learning ...
+  
+- 🌱 I’m currently using at work or learning ...
 - Python
 - SQL
+- PowerBI
 - Tableau
-- 
-- 💞️ I’m looking to collaborate on ...
-- Interesting sports analysis projects
-- Classification projects
--
+- Alteryx
+  
 - 📫 How to reach me ...
 - mbelanger413@gmail.com
 - https://www.linkedin.com/in/marcus-belanger-502a60228/
