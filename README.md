@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @BelangerMarcus
 - 
 - 👀 I’m interested in ...
-- Data Analysis, Optimization, Machine Learning, Baseball, History
+- Data analysis, investment analysis, the business of law, history
 - 
-- 🌱 I’m currently using at work or learning ...
+- 🌱 At work I use ...
+- Excel; power query, power pivot
 - Python
 - SQL
 - PowerBI
-- Tableau
 - Alteryx
 - 
 - 📫 How to reach me ...
