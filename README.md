@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BelangerMarcus
+- If my resume brought you here, please take a moment to review some of the projects I've added to my repository.
 - 
 - 👀 I’m interested in ...
 - Data analysis, investment analysis, the business of law, history
